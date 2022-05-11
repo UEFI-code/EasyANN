@@ -162,7 +162,6 @@ void backward()
 	for(int i = 0; i < cellNumInLayerB; i++)
 		for(int j = 0; j < cellNumInLayerA; j++)
 			gradForLayerA[j] += gradForLayerB[i] * paramForLayerC[i * (cellNumInLayerA + 1) + j];
-
 }
 
 void backward2()
