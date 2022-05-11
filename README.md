@@ -13,6 +13,8 @@ gcc main.c -o main
 
 If you have any questions, feel free to open an issue!
 
+You may noticed the backward2() Function, well that's another style of writing, work same as backward().
+
 # License
 
 Copyright reserved by 'SuperHacker UEFI' and 'Cookie'.
