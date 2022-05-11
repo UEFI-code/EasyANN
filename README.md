@@ -2,7 +2,7 @@
 
 This is an example of Artificial Neural Network written in C.
 
-The code is easy to understand, and almost NO anonying depends, so you can run almost anywhere, like Raspberry Pi or Super MCU.
+The code is easy to understand, and almost NO anonying depends, very suitable for Education, and you can run almost anywhere, like Raspberry Pi or Super MCU.
 
 # How to build
 
